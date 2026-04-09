@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+pandas
+matplotlib
+jupyter
+ipykernel
+clickhouse-connect
+pyarrow
