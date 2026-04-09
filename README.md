@@ -166,3 +166,7 @@ Ingreso:
 
 ---
 
+##19. Dashboard
+<img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/ac645ee2-8d35-41eb-b71e-a77acc9e9c31" />
+
+
